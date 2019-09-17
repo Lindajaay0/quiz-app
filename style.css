@@ -1,0 +1,42 @@
+main {
+    box-sizing: border-box;
+    text-align: center;
+    background-color: lightgray;
+    font-family: sans-serif;
+    color: grey;
+  }
+  
+  h1 {
+    background-color: white;
+    color: black;
+  }
+  
+  ul {
+    list-style-type: none;
+    height: 100px;
+    width: 100%;
+    border: 2px solid grey;
+    margin-bottom: 5px;
+  }
+  
+  .welcomeBox {
+    height: 100px;
+    width: 100%;
+    border: 2px solid grey;
+  }
+  
+  h2 {
+    height: 100px;
+    width: 100%;
+    border: 2px solid grey;
+    font-size: 16px;
+    font-weight: normal;
+  }
+  
+  button {
+    font-size: 15px;
+    height: 100px;
+    width: 100%;
+    border: 2px solid grey;
+    background-color: lightgray;
+  }
